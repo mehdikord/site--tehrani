@@ -1,0 +1,9 @@
+node_modules
+.next
+_raw
+_test
+*.tsbuildinfo
+.env
+.env*.local
+/storage/uploads/*
+!/storage/uploads/.gitkeep

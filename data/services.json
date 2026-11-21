@@ -1,0 +1,14 @@
+{
+  "pageTitle": "خدمات",
+  "intro": "تلاش کرده‌ایم مجموعه‌ای از آموزش‌ها و محصولات تخصصی را گرد هم بیاوریم تا بتوانیم در مسیر یادگیری و پیشرفت همراه شما باشیم.",
+  "items": [
+    { "slug": "fashion-design", "title": "آموزش تخصصی طراحی مد و لباس", "image": "/images/services/design.jpg", "icon": "pen", "cta": { "label": "مشاوره رایگان", "href": "/contact" } },
+    { "slug": "pattern-making", "title": "آموزش الگوسازی پایه و مدل، اصلاح الگو و سایزبندی", "image": "/images/services/pattern.jpg", "icon": "ruler", "cta": { "label": "مشاوره رایگان", "href": "/contact" } },
+    { "slug": "cutting-sewing", "title": "آموزش برش، نمونه‌دوزی و دوخت تخصصی", "image": "/images/services/sewing.jpg", "icon": "scissors", "cta": { "label": "مشاوره رایگان", "href": "/contact" } },
+    { "slug": "bridal-evening", "title": "آموزش طراحی و دوخت لباس شب و عروس", "image": "/images/services/bridal.jpg", "icon": "sparkles", "cta": { "label": "مشاهده پک شب و عروس", "href": "/products/white-magic" } },
+    { "slug": "collection", "title": "طراحی و توسعه مجموعه‌های پوشاک (کالکشن)", "image": "/images/services/collection.jpg", "icon": "layers", "cta": { "label": "مشاوره رایگان", "href": "/contact" } },
+    { "slug": "ready-patterns", "title": "تهیه و عرضه الگوهای آماده و سایزبندی‌شده", "image": "/images/services/patterns-ready.jpg", "icon": "package", "cta": { "label": "خرید پک الگوهای آماده", "href": "/products" } },
+    { "slug": "online-content", "title": "تولید محتوای آموزشی و ارائه دوره‌های آنلاین", "image": "/images/services/online.jpg", "icon": "play", "cta": { "label": "دوره‌های آنلاین", "href": "/courses" } },
+    { "slug": "market-ready", "title": "ارائه آموزش‌های کاربردی متناسب با نیاز بازار کار و صنعت پوشاک", "image": "/images/services/industry.jpg", "icon": "briefcase", "cta": { "label": "مشاوره رایگان", "href": "/contact" } }
+  ]
+}

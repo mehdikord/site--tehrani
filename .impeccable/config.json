@@ -1,0 +1,17 @@
+{
+  "detector": {
+    "ignoreRules": [],
+    "ignoreFiles": [],
+    "ignoreValues": [
+      {
+        "rule": "gradient-text",
+        "value": "*",
+        "files": [
+          "src/app/globals.css"
+        ],
+        "createdAt": "2026-11-21T11:14:37.360Z",
+        "reason": "agent decision: metallic gold foil lettering is the brand's own signature (see its logo and product art); used on one hero accent word only"
+      }
+    ]
+  }
+}

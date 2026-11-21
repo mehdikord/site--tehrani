@@ -1,0 +1,15 @@
+{
+  "pageTitle": "نمونه دوخت هنرجویان",
+  "subtitle": "دنیای الگوهای معجزه‌گر",
+  "intro": "هر الگو، شروع یک لباس است. از کت‌های اندامی تا لباس شب و عروس — دسته‌بندی‌هایی که الگوهای آماده و دوره‌های ما پوشش می‌دهند.",
+  "items": [
+    { "id": "jacket-1", "title": "کت برش عصایی اندامی", "category": "پک الگوهای پاورکت کت قدرتمند", "image": "/images/portfolio/01.jpg", "href": "/products/powercut-jacket" },
+    { "id": "bridal-1", "title": "بوستیه دکلته", "category": "پک الگوهای شب و عروس white magic", "image": "/images/portfolio/02.jpg", "href": "/products/white-magic" },
+    { "id": "blouse-1", "title": "شومیز اندامی جلو قاپک دار", "category": "پک الگوهای فول استایل", "image": "/images/portfolio/03.jpg", "href": "/products/full-style" },
+    { "id": "kimono-1", "title": "کیمونو و کفتان", "category": "پک کامل الگوهای فری سایز", "image": "/images/portfolio/04.jpg", "href": "/products/free-size" },
+    { "id": "trousers-1", "title": "شلوار راسته کلاسیک", "category": "نسل جدید الگوهای معجزه گر شلوار", "image": "/images/portfolio/05.jpg", "href": "/products/trousers-new-gen" },
+    { "id": "skirt-1", "title": "دامن ماهی برشدار", "category": "پک الگوهای شب و عروس white magic", "image": "/images/portfolio/06.jpg", "href": "/products/white-magic" },
+    { "id": "coat-1", "title": "کت، پالتو و بارانی", "category": "پک الگوهای پاورکت کت قدرتمند", "image": "/images/portfolio/07.jpg", "href": "/products/powercut-jacket" },
+    { "id": "evening-1", "title": "لباس مجلسی و عصر", "category": "پک الگوهای شب و عروس white magic", "image": "/images/portfolio/08.jpg", "href": "/products/white-magic" }
+  ]
+}

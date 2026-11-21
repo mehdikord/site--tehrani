@@ -1,0 +1,55 @@
+{
+  "brand": {
+    "name": "شراره طهرانی",
+    "latinName": "Sharare Tehrani",
+    "title": "مدرس و طراح دوره های خیاطی و الگو",
+    "slogan": "یاد بگیرید، خلق کنید، بدرخشید…",
+    "organization": "موسسه طراحان مد و لباس طهران",
+    "rotatingOfferings": ["فروش پک های الگوی آماده", "دوره های حضوری", "دوره های آنلاین"],
+    "footerAbout": "شراره طهرانی، مدرس خیاطی با بیش از ۲۰ سال سابقه تدریس و تجربه در حوزه آموزش هنر خیاطی، با هدف انتقال دانش و مهارت‌های تخصصی به علاقه‌مندان این هنر فعالیت می‌کند. ایشان با بهره‌گیری از سال‌ها تجربه آموزشی، تلاش دارد مسیر یادگیری خیاطی را از سطح مبتدی تا پیشرفته به شکلی اصولی، کاربردی و حرفه‌ای برای هنرجویان فراهم کند؛ تا هر علاقه‌مند بتواند با تکیه بر مهارت و خلاقیت خود، به یک خیاط توانمند تبدیل شود.",
+    "copyright": "کلیه حقوق وب سایت برای شراره طهرانی محفوظ است."
+  },
+  "contact": {
+    "phone": "09022322567",
+    "consultationPhone": "09301191435",
+    "consultationLabel": "مشاوره رایگان",
+    "bookingLabel": "مشاوره و رزرو نوبت",
+    "address": "تهران، یوسف آباد، خیابان شهید ادریس حسین پور (33)، نبش بزرگراه کردستان، پلاک : 23، واحد 16",
+    "workingHours": "ساعت کاری : 10 تا 22",
+    "formTitle": "فرم تماس با ما:",
+    "formSubmitLabel": "ارسال درخواست",
+    "infoTitle": "اطلاعات تماس با ما:"
+  },
+  "social": {
+    "instagram": "https://instagram.com/tehrani.sharare",
+    "instagramHandle": "tehrani.sharare",
+    "whatsapp": "https://wa.me/989022322567",
+    "telegram": "https://t.me/989022322567",
+    "enamad": "https://trustseal.enamad.ir/?id=8761135&Code=bWjWviawJLIIBdSc0WfEDv482LqQ5hZr"
+  },
+  "nav": [
+    { "label": "خانه", "href": "/" },
+    { "label": "محصولات", "href": "/products", "children": [
+      { "label": "پک الگوهای آماده", "href": "/products" },
+      { "label": "دوره های آموزشی ضبط شده", "href": "/courses#recorded" },
+      { "label": "دوره های حضوری", "href": "/courses#in-person" }
+    ]},
+    { "label": "خدمات", "href": "/services" },
+    { "label": "نمونه‌کارها", "href": "/portfolio" },
+    { "label": "نظرات هنرجویان", "href": "/#testimonials" },
+    { "label": "درباره ما", "href": "/about" },
+    { "label": "تماس با ما", "href": "/contact" }
+  ],
+  "primaryCta": { "label": "خرید پک الگوهای آماده", "href": "/products" },
+  "quickLinks": [
+    { "label": "دوره های حضوری", "href": "/courses#in-person" },
+    { "label": "پک الگوهای آماده", "href": "/products" },
+    { "label": "دوره های آموزشی ضبط شده", "href": "/courses#recorded" }
+  ],
+  "trustFeatures": [
+    { "title": "ضمانت اصالت کالا", "subtitle": "خریدی مطمئن", "icon": "shield" },
+    { "title": "خرید قسطی", "subtitle": "4 قسطه", "icon": "credit-card" },
+    { "title": "ارسال سریع", "subtitle": "از طریق پست", "icon": "truck" },
+    { "title": "مشاوره تخصصی", "subtitle": "همراه شما در خرید", "icon": "headset" }
+  ]
+}
